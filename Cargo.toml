@@ -1,0 +1,9 @@
+[package]
+name = "todo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rusqlite="0.26.3"
+chrono = "0.4"
+prettytable = "0.10.0"
